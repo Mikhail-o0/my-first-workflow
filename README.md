@@ -1,0 +1,1 @@
+[![greeting](https://github.com/Mikhail-o0/my-first-workflow/actions/workflows/greeting.yml/badge.svg)](https://github.com/Mikhail-o0/my-first-workflow/actions/workflows/greeting.yml)
